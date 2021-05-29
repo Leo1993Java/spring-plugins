@@ -1,0 +1,8 @@
+server:
+  port: 9000
+
+spring:
+  security:
+    user:
+      password: 123456
+      name: jaler
